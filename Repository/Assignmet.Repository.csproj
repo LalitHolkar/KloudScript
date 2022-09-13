@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Assignment.Data\Assignment.Data.csproj" />
+    <ProjectReference Include="..\Assignment.Services\Assignment.Services.csproj" />
+  </ItemGroup>
+
+</Project>
